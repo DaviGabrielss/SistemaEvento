@@ -1,7 +1,7 @@
 //Condições para se cadastrar
-var DataAtual = new Date()
+var DataAtual = new Date();
 
-var DataEvento = new Date("27 de Março de 2022")
+var DataEvento = new Date("27 de Março de 2022");
 
 if (DataAtual.lenght<=DataEvento.lenght) {
 //É possivível efetuar o cadastro
